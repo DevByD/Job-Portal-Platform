@@ -22,28 +22,4 @@ IDE: Eclipse
 Database: MySQL
 Server: Apache Tomcat
 Version Control: Git & GitHub
-📂 Project Structure
-CareerLink/
-│── src/main/java/com/careerlink/
-│   ├── dao/
-│   ├── servlet/
-│   │   ├── ApplyServlet.java
-│   │   ├── DeleteApplicationServlet.java
-│   │   ├── LoginServlet.java
-│   │   ├── LogoutServlet.java
-│   │   ├── RegisterServlet.java
-│
-│── src/main/webapp/
-│   ├── META-INF/
-│   ├── uploads/
-│   ├── WEB-INF/
-│   ├── editApplication.jsp
-│   ├── index.jsp
-│   ├── login.html
-│   ├── profile.jsp
-│   ├── registration.html
-│   ├── viewApplications.jsp
-│
-│── build/
-│── Servers/
-│── README.md
+
