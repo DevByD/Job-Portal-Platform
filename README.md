@@ -2,24 +2,44 @@
 A web-based job portal that enables users to search and apply for jobs while allowing employers to post and manage job listings. 💼
 
 💼 CareerLink – Job Portal Platform
-📌 Project Description
+# Job Portal Platform
 
-CareerLink is a Java Full Stack web-based Job Portal application developed using Servlets, JSP, HTML, CSS, and MySQL. The platform allows users to register, log in, apply for jobs, and manage their job applications. It provides a simple and efficient system for handling job applications and user profiles.
+A Java Full Stack web application developed using Eclipse that allows job seekers to search and apply for jobs, and employers to post job opportunities.
 
-🎯 Features
-👤 User Registration and Login
-🔐 Secure Authentication System
-📝 Apply for Job Applications
-📄 View Submitted Applications
-✏️ Edit Application Details
-❌ Delete Applications
-👤 User Profile Management
-📂 File Upload Support (Resume Upload)
-🛠️ Technologies Used
-Frontend: HTML, CSS, JSP
-Backend: Java Servlets
-IDE: Eclipse
-Database: MySQL
-Server: Apache Tomcat
-Version Control: Git & GitHub
+## 🚀 Features
+
+* User Registration and Login
+* Employer Job Posting
+* Job Search Functionality
+* Database Integration using MySQL
+* JSP and Servlet Based Web Application
+
+## 🛠️ Technologies Used
+
+* Java
+* JSP & Servlet
+* HTML
+* CSS
+* JavaScript
+* MySQL
+* Apache Tomcat
+* Eclipse IDE
+
+## 📂 Project Structure
+
+* src/ → Java source files
+* WebContent/ → JSP, HTML, CSS files
+* Database → MySQL database scripts
+
+## ▶️ How to Run the Project
+
+1. Import project into Eclipse
+2. Configure Apache Tomcat Server
+3. Setup MySQL database
+4. Run the project on Tomcat Server
+
+## 👨‍💻 Developed By
+
+Dharesh SD
+
 
