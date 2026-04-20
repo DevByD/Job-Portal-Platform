@@ -2,8 +2,6 @@
 A web-based job portal that enables users to search and apply for jobs while allowing employers to post and manage job listings. 💼
 
 💼 CareerLink – Job Portal Platform
-# Job Portal Platform
-
 A Java Full Stack web application developed using Eclipse that allows job seekers to search and apply for jobs, and employers to post job opportunities.
 
 ## 🚀 Features
